@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480972109741",
+    "project_id": "ott-login-ce53e",
+    "storage_bucket": "ott-login-ce53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480972109741:android:6a7e1924d346cb14045324",
+        "android_client_info": {
+          "package_name": "com.gt.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYMvcOYRqzoMGSJC26_3GRl-FMRVWh2pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480972109741:android:e3646f48a74bf9fd045324",
+        "android_client_info": {
+          "package_name": "com.gt.ott"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYMvcOYRqzoMGSJC26_3GRl-FMRVWh2pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
